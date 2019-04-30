@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JUnitGeneratorProjectSettings">
+    <option name="combineGetterAndSetter" value="true" />
+    <option name="selectedTemplateKey" value="JUnit 4" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springcloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-member/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-member02/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
